@@ -1,0 +1,89 @@
+[33mcommit 230061742932fd6acab56c3c2312b7b692146a0e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Wed Jun 24 18:02:42 2020 +0900
+
+    add text classification
+
+[33mcommit 0f38f993938b1bde74d6360a6be7ba62749e0767[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Wed Jun 24 18:00:21 2020 +0900
+
+    add text classification
+
+[33mcommit 075cca503abf407d1773cc5af000b96c8b961342[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: prlhspt <prlhspt@gmail.com>
+Date:   Wed Jun 24 00:17:41 2020 +0900
+
+    classification exercise
+
+[33mcommit 1bd80a197e051c0a01f89a90dab9e3634f7ef5eb[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Tue Jun 23 17:49:14 2020 +0900
+
+    fix information
+
+[33mcommit 36391632dd7ddbb3cff382f1fcb6b825877e9746[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Tue Jun 23 17:39:21 2020 +0900
+
+    custom segmentation
+
+[33mcommit f3016f7447e919c0ee409022effb80041d729c06[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Tue Jun 23 15:58:59 2020 +0900
+
+    clustering
+
+[33mcommit 98c967bc4e9779326ef23a26c9a548fc62703fdb[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Mon Jun 22 17:50:39 2020 +0900
+
+    Regression
+
+[33mcommit 133f3eebf134d4dedc385639cf3d4566c07bec0e[m
+Author: prlhspt <prlhspt@gmail.com>
+Date:   Sun Jun 21 02:21:06 2020 +0900
+
+    practice
+
+[33mcommit 70b90c0e8900edecbe8cce1cd1b7188d6956acfb[m
+Author: prlhspt <prlhspt@gmail.com>
+Date:   Sun Jun 21 02:07:40 2020 +0900
+
+    practice
+
+[33mcommit 941532a9ec7b2a11ac06d2dae0903be3001dcc11[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Fri Jun 19 17:51:14 2020 +0900
+
+    Regression
+
+[33mcommit 14833987c8b19a50d56d3050935eaaf57675c709[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Thu Jun 18 17:52:15 2020 +0900
+
+    machine-learning
+
+[33mcommit c7a82e348f92c8b79bac486773c9368d0eca889b[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Wed Jun 17 17:51:55 2020 +0900
+
+    Evul
+
+[33mcommit a4963f294d58ed09c28f0d6aa197877e9a536e79[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Tue Jun 16 17:54:07 2020 +0900
+
+    scikitlearn
+
+[33mcommit cce6cc23d97363e047dd395b31ae8eb166aa4911[m
+Author: Hyunseok Lim <51734550+prlhspt@users.noreply.github.com>
+Date:   Tue Jun 16 13:22:16 2020 +0900
+
+    Create README.md
+
+[33mcommit 943a4448afd21c7d8a25cc9deb7d1d0dec1f13a0[m
+Author: Hyunseok Lim <prlhspt@gmail.com>
+Date:   Tue Jun 16 13:07:14 2020 +0900
+
+    Machine Learning 강의 시작
